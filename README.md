@@ -1,3 +1,3 @@
 ﻿# POO_estructuras
 
-Juan David Mnosalve Rodriguez
+Juan David Monsalve Rodriguez
