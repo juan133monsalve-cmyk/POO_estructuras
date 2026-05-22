@@ -6,7 +6,7 @@ public class Sumas {
         long numero = sc.nextInt();
         long sumaDigitos = 0;
 
-    while (numero >= 10) {
+    while (numero >= 1) {
 
         sumaDigitos = 0;
     
